@@ -153,8 +153,9 @@ Utilizando Phyton en https://makecode.microbit.org/#editor
 2.Crear un juego en Microbit donde al pulsar el botón A y B, con los pines 0 y 1 realice movimientos de izquierda a derecha , de arriba hacia abajo para llegar al led con brillo sin llegar a tocarnos con una casilla que contenga una bomba al llegar al objetivo desplegara una carita feliz al contrario de estar en una casilla con una bomba saldrá una carita triste y un enunciado que diga Gameover. 
 Utilizando MakeCode de https://makecode.microbit.org/#editor
  
-
 Utilizando Phyton en https://makecode.microbit.org/#editor
+![image](https://user-images.githubusercontent.com/63418581/85351443-5ffc0700-b4c9-11ea-8721-ae9b16c73109.png)
+
 
 Ejercicios de Arduino
 
