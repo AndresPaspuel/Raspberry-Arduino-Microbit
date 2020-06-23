@@ -32,9 +32,16 @@ Hardware
 
 Raspberry Pi
 
-El Raspberry Pi es una plataforma de desarrollo de múltiples aplicaciones cuyo principal objetivo es propulsar la iniciativa de inventar, crear e innovar. Es una gran opción debido a que su precio no es elevado y nos ofrece una gran variedad de características a continuación veremos el detalle técnico desde el primer micro-procesador hasta el actual que es el Raspberry pi 4 Modelo B en donde vamos a notar claramente su evolución durante el tiempo.
+El Raspberry Pi
+
+Es una plataforma de desarrollo de múltiples aplicaciones cuyo principal objetivo es propulsar la iniciativa de inventar, crear e innovar. Es una gran opción debido a que su precio no es elevado y nos ofrece una gran variedad de características a continuación veremos el detalle técnico desde el primer micro-procesador hasta el actual que es el Raspberry pi 4 Modelo B en donde vamos a notar claramente su evolución durante el tiempo.
+
 Notaremos en la Raspberry Pi 4 Modelo B que se han incluido muchas más funcionalidades con el fin de que siga siendo de alto rendimiento y entre los muchos cambios que se observan en la Raspberry Pi 4 Modelo B es de un actualización a un procesador principal de próxima generación, una conectividad mejorada en Bluetooth, de igual manera se ha visto como ha mejorado la administración de energía, con una fuente de alimentación actualizada desde 2.5 amperios  y para admitir dispositivos USB externos más potentes.
+
+
 Los cuatro puertos USB integrados de la Raspberry Pi 4 Modelo B proporciona suficiente conectividad como para un mouse, teclado o cualquier otro producto que se pueda llegar a necesitar también se puede agregar un concentrador USB pero se recomienda que este tenga su fuente de alimentación propia para no sobrecargar el regulador de voltaje de la tarjeta, no cuenta con botón de encendido y por ese motivo la tarjeta comenzara arrancar apenas tenga una alimentación de energía y para apagarlo solo se tendrá que desconectar la energía
+
+
 MICRO BIT
 
 ![image](https://user-images.githubusercontent.com/63418581/85351996-97b77e80-b4ca-11ea-99c2-223b048fb641.png)
