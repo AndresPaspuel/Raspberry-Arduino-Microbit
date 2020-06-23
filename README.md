@@ -211,3 +211,4 @@ Digitar las tres notas para saber si el alumno aprueba o no.
 ARDUINO UNO 
 
 ![image](https://user-images.githubusercontent.com/66221550/85352292-33e18580-b4cb-11ea-9582-45abaaa10463.png)
+![image](https://user-images.githubusercontent.com/66221550/85352350-5b385280-b4cb-11ea-835e-f847349242a4.png)
