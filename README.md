@@ -369,3 +369,46 @@ Ejercicio2
 (Encendido y Apagado de leds )
 Se diseña un programa que se prende dos led conectados al arduino en los pines de entrada y salida, se prenderán y se apagaran cada 1000ms.
 
+8.- Descripción de pre-requisitos y configuración 
+
+1.	En el caso de arduino es necesario programar los terminales a utilizar en la secuencia de leds se utilizó terminales del 2 al 8 y las resistencias se las conecto a la GND para no generar un corto.
+2.	Una buena conexión a internet ya que no se puede guardar el código mientras se este utilizando la versión de https://create.withcode.uk/ que sirve para crear funcionalidades e implementar en nuestra Raspberry Pi
+
+9.- Aportaciones 
+
+Una aportación clara que se puede ver es la de que tinkercad es una herramienta amigable y lo es más entendible para las personas que recién están empezando con simulaciones, a diferencia del proteus que en sí es una herramienta buena pero el único inconveniente es que no es amigable con el usuario debido a que todas sus funciones están escondidas y corresponde saber sobre su interfaz para encontrarla.
+
+![image](https://user-images.githubusercontent.com/65547964/85354676-bcaef000-b4d0-11ea-8dea-0bdbd0aff5b2.png)
+10.- Conclusiones 
+
+ 	El microprocesador Raspberry Pi es un dispositivo que posee muchas características positivas, pero así mismo es el más complicado de programar ya que tenemos que instalar el Sistema operativo.
+  
+ 	Con los tres micro-procesadores es necesario tener un nivel medio en programación para poder realizar diseños y controles
+  
+ 	El microprocesador Micro:Bit nos brinda una gran capacidad de interactuar y realizar de manera novedosa al momento de programar porque no exige un novel en programación. 
+  
+ 	El microprocesador Arduino uno tiene bastantes beneficios no solo por su sencillez de encontrar sino también por su accesible plataforma y su sencilla programación que lo hace una herramienta ideal para jovenes aprendices , 
+
+11.- Recomendaciones
+
+ 	Antes de empezar a utilizar cualquier simulador es adecuado el de tener una introducción hacia esa área porque si iniciamos sin conocer nada no podemos lograr el objetivo que tenemos en mente
+  
+ 	Tener un cierto grado de conocimiento de programación porque en el lenguaje de Python puede llegar a confundir cuando técnicamente es lo mismo.
+
+ 	También es importante tener un conocimiento  adecuado de circuitos ya que estas tarjetas para hacerlas funcionar utilizamos diferentes herramientas como leds , resistencias  etc
+
+12.- Cronograma
+![image](https://user-images.githubusercontent.com/65547964/85354870-19aaa600-b4d1-11ea-94bc-3c674d10ac7b.png)
+
+Bibliografía
+
+Alegre, J. A. (2017). BBC Micro:Bit Introducción a la mecatrónica en estudios preuniversitarios. Valencia
+
+Casco, S. M. (2014). Raspberry Pi, Arduino y Beaglebone Black Comparación y Aplicaciones. Universidad Catolica Nuestra Señora de la Asunción
+
+Sentance, S., Waite, J., Yeomans, L. y MacLeod, E. (noviembre de 2017). Enseñanza con dispositivos informáticos físicos: la iniciativa BBC micro: bit. En Actas del 12º Taller sobre Educación Informática Primaria y Secundaria (pp. 87-96).
+
+MS Bin Bahrudin, RA Kassim y N. Buniyamin, "Desarrollo del sistema de alarma contra incendios utilizando Raspberry Pi y Arduino Uno", Conferencia Internacional 2013 sobre Ingeniería Eléctrica, Electrónica y de Sistemas (ICEESE) , Kuala Lumpur, 2013, pp. 43-48, doi: 10.1109 / ICEESE.2013.6895040.
+
+
+
