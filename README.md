@@ -1,6 +1,8 @@
 
 1.- Planteamiento del Problema  
 Para arquitectura de computadoras es primordial conocer todos los componentes de las tarjetas de Rapsberry pi, Arduino Uno y Microbit necesitamos adquirir conocimiento de cómo están conformadas estas tarjetas desde sus partes su funcionamiento, y como se programa en estas tarjetas por eso partimos de analizar el hardware, software y plantear dos ejemplos de cada tarjeta.
+
+
 2.- Objetivos 
 
 Objetivo General
@@ -398,6 +400,8 @@ Una aportación clara que se puede ver es la de que tinkercad es una herramienta
  	También es importante tener un conocimiento  adecuado de circuitos ya que estas tarjetas para hacerlas funcionar utilizamos diferentes herramientas como leds , resistencias  etc
 
 12.- Cronograma
+
+
 ![image](https://user-images.githubusercontent.com/65547964/85354870-19aaa600-b4d1-11ea-94bc-3c674d10ac7b.png)
 
 Bibliografía
