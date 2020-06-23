@@ -179,6 +179,7 @@ Utilizando la página https://create.withcode.uk/ realizamos un ejercicio que no
 Ejercicio 2
 
 Digitar las tres notas para saber si el alumno aprueba o no.
- 
+
+![image](https://user-images.githubusercontent.com/63418581/85350825-c5e78f00-b4c7-11ea-820f-c4b72867f1cd.png)
  
 
