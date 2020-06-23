@@ -128,11 +128,15 @@ Micro:Bit es una pequeña es un dispositivo que incorpora una matriz 5x5 leds qu
 En este microprocesador se puede programar de diferentes formasy entre las tres opciones tenemos el editor de bloques JavaScript que es un lenguaje fácil de entender se puede elegir entre JavaScript de Code Kingdoms o el block editor de Microsoft donde podemos cargar funciones y variables y consiste principalmente en seleccionar casillas de un lenguaje de programación.
  
 Otra opción es la de programar con MicroPython que es una pequeña variación de Phython así permitiendo programar de manera más sencilla ciertas cosas y este tipo de programa es muy popular debido a sus potentes funciones y su comprensión del código encontramos la versión para programar offline que nos sirve cuando no tengamos conexión y poder seguir trabajando en proyectos en el interfaz de esta página tenemos la barra de herramientas el primero que esta es download y nos va a servir para descargar archivos .hex una vez que terminemos de programar alado de ella está la opción de guardar y estará habilitada una vez que nos encontremos registrados de igual manera se pueden importar archivos programados con otro editor de Python. 
- 
+![image](https://user-images.githubusercontent.com/63418581/85351853-44453080-b4ca-11ea-98dd-60224ec3ade1.png)
+
 Tinkerdcad (arduino)
 
 Es una colección que incluye herramientas de software de Autodesk que permite a los principiantes crear modelos 3D. Sin embargo, ofrece también la posibilidad de montar, programar y simular circuitos con Arduino debido a que su pagina es amigable con el usuario y debido a ello no mostraría dificultad al momento de iniciar con cualquier programa a trabajar.
- 
+
+![image](https://user-images.githubusercontent.com/63418581/85351839-3db6b900-b4ca-11ea-82ed-04e261c42c2e.png)
+
+
  WITH CODE .UK (Raspberry Pi)
 
 Create.withcode.uk
@@ -140,7 +144,7 @@ Create.withcode.uk
  
  Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código. Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, dinámico y multiplataforma.
 
- 
+ ![image](https://user-images.githubusercontent.com/63418581/85351829-398a9b80-b4ca-11ea-9d3a-bb3a07225669.png)
 
 Ejercicios de MicroBit 
 
