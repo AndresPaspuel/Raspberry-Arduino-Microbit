@@ -175,6 +175,8 @@ Ejercicios de Raspberry Pi
 Ejercicio 1
 
 Utilizando la página https://create.withcode.uk/ realizamos un ejercicio que nos va a pedir un número el cual significa la cantidad de veces que lo vamos a repetir luego de realizar el ingreso de números nos desplegara en pantalla cuantos números pares e impares ingresamos
+
+![image](https://user-images.githubusercontent.com/63418581/85350996-44dcc780-b4c8-11ea-9abf-530601dddf1b.png)
  
 Ejercicio 2
 
