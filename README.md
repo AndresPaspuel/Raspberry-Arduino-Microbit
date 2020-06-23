@@ -361,3 +361,4 @@ Ejercicio2
 
 (Encendido y Apagado de leds )
 Se diseña un programa que se prende dos led conectados al arduino en los pines de entrada y salida, se prenderán y se apagaran cada 1000ms.
+
