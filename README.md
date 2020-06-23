@@ -167,6 +167,8 @@ Realizar una secuencia de leds con Arduino
 Ejercicios 2 
 Se diseña un programa que se prende dos led conectados al arduino en los pines de entrada y salida, se prenderan y se apagaran cada 1000ms.
 
+
+![image](https://user-images.githubusercontent.com/63418581/85350704-7739f500-b4c7-11ea-936c-6782b2f059f8.png)
  
 Ejercicios de Raspberry Pi
 
