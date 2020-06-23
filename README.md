@@ -212,3 +212,127 @@ ARDUINO UNO
 
 ![image](https://user-images.githubusercontent.com/66221550/85352292-33e18580-b4cb-11ea-9582-45abaaa10463.png)
 ![image](https://user-images.githubusercontent.com/66221550/85352350-5b385280-b4cb-11ea-835e-f847349242a4.png)
+
+6.- Lista de Componentes 
+
+ARDUINO 
+
+•	Arduino 
+
+•	Leds (7) 
+
+•	Resistencias de 320 ohmios
+
+•	Código a utilizar
+
+•	Leds (2)
+
+•	Resistencias 320 ohmios 
+
+MICRO BIT
+
+•	Tarjeta Micro:Bit
+
+•	sensor de temperatura(incluido en la tarjeta de Micro:Bit)
+
+•	Salida de sonido
+
+•	Pin 0 y 1
+
+•	Bloques de Juego ,Entrada ,Variable,Funcion
+
+RASPBERRY
+
+•	Computadora para programar
+
+
+7.- MAPAS DE VARIABLE
+
+Raspberry
+
+1.	print: Permite escribir caracteres del código ASCII.
+
+2.	if , else: Son condicionales si existe más de una opción.
+
+3.	int: Digitar datos enteros.
+
+4.	input: Permite digitar datos de distintos tipos
+
+5.	def: Permite crear objetos según lo defina el usuario.
+
+6.	for: es un bucle que repite el bloque de instrucciones en un número predeterminado de veces.
+
+7.	variables: Es un espacio reservado de la memoria que almacena un dato.
+
+8.	Operadores Aritméticos: es la declaración de funciones matemáticas.
+
+Arduino
+
+1.	void setup, void loop: Sirve para ejecutar líneas de códigos. 
+
+2.	pinMode: Configura cada pin de manera individual, agregando que sirve de entrada y salida
+
+3.	delay: Permite que espere hasta su ejecución.
+
+Arduino 
+
+Microbit
+1.	Establecer: Establece una variable para que sea igual a la entrada.
+
+2.	Si, si no: es un condicional donde evaluará si es verdadero y ejecutara el primer bloque de declaraciones.
+
+3.	Mostrar cadea: Muestra el texto en pantalla.
+
+4.	Play melodía: toca una melodía del editor de melodías
+
+Microbit ( Juego ) 
+Micro Python
+
+1.	def : Sirve  para crear objetos funciones definidas por el usuario
+
+2.	Input : Datos que llegan al programa
+
+3.	Globo : Es una variable accesible en todos los ámbitos 
+
+4.	if : evalúa una condición
+
+Bloques 
+
+1.Bloques de Entrada
+
+2.Bloques Variables (Jugador)
+
+3.Bloque deFunciones
+
+4.Bloque de Juegos
+
+5.Bloque de Entrada
+
+8. Explicación del código fuente
+
+MicroBit
+
+Ejercicio uno de Micro:Bit.- Crear un programa que mediante un aviso acústico se advierta de que la micro:BIT está recibiendo la temperatura del ambiente. 
+Usar el evento para siempre, para iniciar el programa.
+Crear una variable donde se almacenará el valor del sensor obtenido por el bloque dirección de la brújula (º).
+Se introduce el condicional si entonces si no para comprobar en qué intervalo se encuentra el valor obtenido por el sensor. Si el valor se encuentra entre 0º y 24º la micro:BIT es porque el sensor de temperatura marca un valor cálido caso contrario desplegará el mensaje “Frio” y seguidamente se reproducirá un sonido.
+Ejercicio 2 Microbit 
+Crear juego en microbi donde al pulsar el botón A y B, con los pines 0 y 1 realice movimientos de izquierda a derecha  , de arriba hacia abajo para llegar al led con brillo sin llegar a tocarnos con una casilla que contenga una bomba al llegar al objetivo desplegará una carita feliz al contrario de estar en una casilla con una bomba saldrá una carita triste y un enunciado que diga Game Over. 
+Raspberry Pi
+Ejercicio 1.- Ingresar por teclado n cantidad de números y cuántos números pares e impares existen
+Para comenzar a programar en whithcode.uk deberemos tener bases de programación y para comenzar inicializamos dos variables en las que se van acumular nuestros valores.
+Después de haber inicializado las variables preguntamos en pantalla cuantos numeros va a ingresar eso se guardará en nuestra variable num.
+El siguiente paso sería implementar un bucle de repetición for en la que comenzaremos inicializando nuestra variable i y hasta donde queremos que llegue nuestro ciclo que en nuestro caso se repetirá el número de veces que se ha ingresado en num
+Dentro de nuestro ciclo for comenzaremos a ingresar los números en nuestro arreglo.
+Como siguiente paso tenemos que preguntar si el numero ingresado es par o no con una operación de sacar el residuo de un número y comparar si este es igual a 0 o no.
+En el caso de que el número ingresado sea par se tomará como un contador y este almacenará el número de veces que paso x alli.
+En el caso contrario almacenaremos el número de veces que fue un número impar 
+Como último desplegamos en pantalla el número de veces que se han acumulado en nuestro contador.
+Raspberry (Digitar las notas)
+lo que hace este programa es ver si el alumno pasa o no, entonces lo que hacemos es digitar las tres notas que correspondan ya una vez ingresado ls valores lo que hace es sumar la notas y en este punto vamos a utilizar los condicionales if y else porque si la suma de las tres notas da 42 o más despliega “pasa” pero si es menor a 42 despliega “no pasa”.
+
+Arduino  (Secuencia de leds)
+en este ejercicio nosotros programamos la secuencia que deseamos y que leds van a prenderse según el tiempo que nosotros lo estipulamos, en este caso se lo programó con una duración de medio segundo y así seguirá hasta que complete la secuencia además de que este repite el ciclo.
+
+Arduino (Encendido y Apagado de leds )
+Se diseña un programa que se prende dos led conectados al arduino en los pines de entrada y salida, se prenderán y se apagaran cada 1000ms.
