@@ -146,7 +146,9 @@ Ejercicios de MicroBit
 
 1)Crear un programa que mediante un aviso acústico se advierta de que la micro:BIT está recibiendo la temperatura del ambiente.
 Utilizando MakeCode de https://makecode.microbit.org/#editor
- 
+
+ ![image](https://user-images.githubusercontent.com/63418581/85351615-d3057d80-b4c9-11ea-984d-7de0d1c2bfbf.png)
+
 Utilizando Phyton en https://makecode.microbit.org/#editor
 
 ![image](https://user-images.githubusercontent.com/63418581/85351597-cda83300-b4c9-11ea-9669-02f307e60916.png)
