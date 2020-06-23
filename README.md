@@ -163,7 +163,6 @@ Ejercicios de Arduino
 Ejercicio 1
 Realizar una secuencia de leds con Arduino
  
-![image](https://user-images.githubusercontent.com/63418581/85351127-95ecbb80-b4c8-11ea-8f3b-84e846f3edfe.png)
 
 Ejercicios 2 
 Se diseña un programa que se prende dos led conectados al arduino en los pines de entrada y salida, se prenderan y se apagaran cada 1000ms.
@@ -184,5 +183,14 @@ Ejercicio 2
 Digitar las tres notas para saber si el alumno aprueba o no.
 
 ![image](https://user-images.githubusercontent.com/63418581/85350825-c5e78f00-b4c7-11ea-820f-c4b72867f1cd.png)
+
+
+5.Diagrama
+
+Microbit
+
+![image](https://user-images.githubusercontent.com/66221550/85351295-fda30680-b4c8-11ea-9110-30747fdbbe29.png)
+
+
  
 
