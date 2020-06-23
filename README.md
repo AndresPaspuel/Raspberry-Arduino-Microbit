@@ -87,6 +87,10 @@ Se conecta al procesador de la aplicación a través de 4 cables de señal. El c
 
 Arduino Uno
 
+
+![image](https://user-images.githubusercontent.com/63418581/85352089-c7ff1d00-b4ca-11ea-81ee-f01a8436afad.png)
+
+
 Conector USB
 Que puede ser tipo B o mini, este provee la comunicación para la programación y la toma de datos.
 Regulador de voltaje de 5V
